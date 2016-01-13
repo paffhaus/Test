@@ -1,5 +1,5 @@
-strRecord = "2014,513,172000,NULL,NULL,NULL,B,-330.06,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00"
-strFind = "513"
+#strRecord = "2014,513,172000,NULL,NULL,NULL,B,-330.06,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00"
+#strFind = "513"
 #strField = strRecord[6:15]
 #strField = int(strField)
 #strFA = strRecord[68:70]
